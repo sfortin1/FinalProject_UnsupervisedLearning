@@ -1,0 +1,1 @@
+This github repository contains the Jupyter notebook, dataset, and PowerPoint slides for my final project for the class on unsupervised machine learning algorithms from CU Boulder. The project uses unsupervised learning methods to conduct customer segmentation analyses.
